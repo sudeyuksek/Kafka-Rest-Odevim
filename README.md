@@ -9,7 +9,7 @@
  - Spring, kafka konularından gelen mesajları kolay bir şekilde tüketmek için kafka dinleyici şablonu sağlar.
 
  - Postman üzerinden mesajınızı yollayıp, konsol üzerinde görüntüleyerek test edilmiştir:
-  **POST: http://localhost:8081/publish?message=Merhaba nasılsın ??**
+ <br> **POST: http://localhost:8081/publish?message=Merhaba nasılsın ??**</br>
 
 
 
