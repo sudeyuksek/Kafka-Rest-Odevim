@@ -7,5 +7,5 @@ This repository for Kafka-Rest-Odevim includes material from the projects listed
 1.https://github.com/sudeyuksek/Kafka-Rest-Odevim
 2.https://github.com/techtter/springboot-kafka-docker
 
-<a rel="license" href="https://opensource.org/licenses/MIT">
- <br />This work is licensed under a <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
+
+This work is licensed under a <a rel="license" href="https://opensource.org/licenses/MIT">MIT License.
